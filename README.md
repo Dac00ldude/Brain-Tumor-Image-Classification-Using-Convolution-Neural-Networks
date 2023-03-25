@@ -10,7 +10,10 @@ The reason the project is useful is because is can save lives. After diagnosing 
 ## Usage 
 There are two ways to run this program: 
 ### Method 1: Jupyter Notebook
+download the ipynb file
+run using notebook of choice
 ### Method 2: Running through terminal
+Make sure to download the .py file, NOT the ipynb file
 go to command prompt and type the path to the installed .py file in the propmt
 #### to install openCV and Keras, type the two commands below:
 For openCV: type pip install opencv-pyhton
