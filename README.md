@@ -11,4 +11,8 @@ The reason the project is useful is because is can save lives. After diagnosing 
 There are two ways to run this program: 
 ### Method 1: Jupyter Notebook
 ### Method 2: Running through terminal
-go to command prompt and type python with no capital letters
+go to command prompt and type the path to the installed .py file in the propmt
+#### to install openCV and Keras, type the two commands below:
+For openCV: type pip install opencv-pyhton
+For Keras: type pip install keras
+For TensorFlow: type pip install tensorflow *(this one will take a few minutes)*
