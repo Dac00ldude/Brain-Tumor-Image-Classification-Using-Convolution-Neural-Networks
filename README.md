@@ -5,7 +5,7 @@
 The objective of the project is to use Convusional Neural Neural Networks to classify Brain Tumors into four categories: Glioma Tumors, Meningioma Tumors, Pituitary Tumors, or No Tumors.
 
 ## Application
-The reason the project is useful is because is can save lives. After diagnosing a person with a certain tumor, doctors can give the proper treatment faster without having to check manually ehci tumor a person has and can quickly administer aid to the patient. 
+The reason the project is useful is because is can save lives. After diagnosing a person with a certain tumor, doctors can give the proper treatment faster without having to check manually which tumor a person has and can quickly administer aid to the patient. 
 
 ## Usage 
 There are two ways to run this program: 
