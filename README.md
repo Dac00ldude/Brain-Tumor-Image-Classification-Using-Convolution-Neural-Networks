@@ -6,7 +6,8 @@ The objective of the project is to use Convusional Neural Neural Networks to cla
 
 ## Application
 The reason the project is useful is because is can save lives. After diagnosing a person with a certain tumor, doctors can give the proper treatment faster without having to check manually which tumor a person has and can quickly administer aid to the patient. 
-##Data Source
+
+## Data Source
 I got the Data from [Kaggle:](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri?resource=download)
 
 ## Usage 
